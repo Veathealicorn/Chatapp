@@ -23,7 +23,7 @@ function addRoom() {
             password: password
       });
 
-      if (password == "Studiesforever") {
+      if (password == "BtsarmylifeBlackpinkblinglife") {
 
 
             room_name = document.getElementById("room_name").value;
